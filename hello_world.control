@@ -1,0 +1,5 @@
+# hello world extension
+comment = 'hello world'
+default_version = '0.0.1'
+module_pathname = '$libdir/hello_world'
+relocatable = true
